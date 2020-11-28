@@ -14,6 +14,21 @@ img {
     margin: 10px;
 }
 
+#start {
+    background-color: rgb(112, 112, 255);
+    border-radius: 50%;
+}
+
+#pause {
+    background-color: rgb(211, 255, 91);
+    border-radius: 50%;
+}
+
+#reset {
+    background-color: rgb(255, 107, 107);
+    border-radius: 50%;
+}
+
 h1,
 h4 {
     text-align: center;

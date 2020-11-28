@@ -34,5 +34,5 @@ export const startTimer = () => {
       }
       startTimer();
     }
-  }, 1);
+  }, 1000);
 };
