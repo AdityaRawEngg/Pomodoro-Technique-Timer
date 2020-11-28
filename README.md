@@ -14,4 +14,4 @@ Helper directory contain timer, startTimer, pauseTimer and resetTimer Function.
 
 # Demo
 
-live demo:
+live demo: https://adityarawengg.github.io/Pomodoro-Technique-Timer/
