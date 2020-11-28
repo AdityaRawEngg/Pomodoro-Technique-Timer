@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    padding: 0xp;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+img {
+    height: auto;
+    width: 40px;
+    margin: 10px;
+}
+
+h1,
+h4 {
+    text-align: center;
+}
+
+#root {
+    background: url('https://p.kindpng.com/picc/s/179-1791762_analog-watch-hd-png-download.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 250px;
+    display: flex;
+    height: 60vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#timer p {
+    display: inline;
+    margin: 1%;
+    font-size: 220%;
+    font-weight: 300;
+}
